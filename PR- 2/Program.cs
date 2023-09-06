@@ -1,11 +1,11 @@
 ﻿using System;
-class Program
+class Program1
 {
     public static void Main()
     {
-        int a = 1;
-        int b = 2;
-        int c = 3;
-        Console.WriteLine($"{a}  {b}  {c}");
+        Console.WriteLine(5);
+        Console.WriteLine(10);
+        Console.WriteLine(21);
     }
+
 }
