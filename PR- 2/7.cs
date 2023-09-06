@@ -5,7 +5,7 @@ class Program
     {
         Console.Write("Radius ");
         double radius = Convert.ToDouble(Console.ReadLine());
-        Console.WriteLine("SideLenght ");
+        Console.Write("SideLenght ");
         double sideLength = Convert.ToDouble(Console.ReadLine());
         double circleArea = Math.PI * Math.Pow(radius, 2);
         double squareArea = Math.Pow(sideLength, 2);
