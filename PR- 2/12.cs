@@ -8,7 +8,7 @@ class Program
         double r = Convert.ToDouble(Console.ReadLine());
         double l = 2 * Math.PI * r;
         double S = Math.PI * Math.Pow(r, 2);
-        Console.WriteLine($"Окружность круга {l}");
+        Console.WriteLine($"Длина окружности круга {l}");
         Console.WriteLine($"Площадь круга {S}");
     }
 }
