@@ -4,7 +4,7 @@ class Program
 
     public static void Main()
     {
-        Console.Write("Введите радиус круга ");
+        Console.Write("Введите радиус окружности круга ");
         double r = Convert.ToDouble(Console.ReadLine());
         double l = 2 * Math.PI * r;
         double S = Math.PI * Math.Pow(r, 2);
