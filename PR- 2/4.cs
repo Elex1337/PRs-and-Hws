@@ -9,3 +9,4 @@ class Program
         int weeks = days / 7;
         Console.WriteLine(weeks);
     }
+}
