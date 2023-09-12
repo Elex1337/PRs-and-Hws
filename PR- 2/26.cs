@@ -2,7 +2,7 @@ using System;
 
 class Program
 {
-  static int f(int m1, int m2 , int m3 )
+  static int f(int m1, int m2 = 999, int m3 = 999)
     {
         if (m1 <= m2 && m1 <= m3)
         {
@@ -17,7 +17,6 @@ class Program
             return m3;
         }
     }
-
     static void Main()
     {
         Console.Write("m1 ");
