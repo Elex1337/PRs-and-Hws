@@ -10,7 +10,6 @@ class Program
         int c = Convert.ToInt32(Console.ReadLine());
         Console.WriteLine("c = ");
         int b = Convert.ToInt32(Console.ReadLine());
-        int sum = a + b + c;
-        Console.WriteLine($"Sum {sum}");
+        Console.WriteLine($"Sum {a+b+c}");
     }
 }
