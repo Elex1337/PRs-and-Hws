@@ -1,0 +1,5 @@
+/Users/nurbolatzursinbek/Desktop/Project_1
+/Users/nurbolatzursinbek/Desktop/Project_1.dll
+/Users/nurbolatzursinbek/Desktop/Project_1.deps.json
+/Users/nurbolatzursinbek/Desktop/Project_1.runtimeconfig.json
+/Users/nurbolatzursinbek/Desktop/Project_1.pdb

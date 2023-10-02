@@ -1,0 +1,15 @@
+/Users/nurbolatzursinbek/Projects/Project_1/Project_1/bin/Debug/net7.0/Project_1
+/Users/nurbolatzursinbek/Projects/Project_1/Project_1/bin/Debug/net7.0/Project_1.deps.json
+/Users/nurbolatzursinbek/Projects/Project_1/Project_1/bin/Debug/net7.0/Project_1.runtimeconfig.json
+/Users/nurbolatzursinbek/Projects/Project_1/Project_1/bin/Debug/net7.0/Project_1.dll
+/Users/nurbolatzursinbek/Projects/Project_1/Project_1/bin/Debug/net7.0/Project_1.pdb
+/Users/nurbolatzursinbek/Projects/Project_1/Project_1/obj/Debug/net7.0/Project_1.csproj.AssemblyReference.cache
+/Users/nurbolatzursinbek/Projects/Project_1/Project_1/obj/Debug/net7.0/Project_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nurbolatzursinbek/Projects/Project_1/Project_1/obj/Debug/net7.0/Project_1.AssemblyInfoInputs.cache
+/Users/nurbolatzursinbek/Projects/Project_1/Project_1/obj/Debug/net7.0/Project_1.AssemblyInfo.cs
+/Users/nurbolatzursinbek/Projects/Project_1/Project_1/obj/Debug/net7.0/Project_1.csproj.CoreCompileInputs.cache
+/Users/nurbolatzursinbek/Projects/Project_1/Project_1/obj/Debug/net7.0/Project_1.dll
+/Users/nurbolatzursinbek/Projects/Project_1/Project_1/obj/Debug/net7.0/refint/Project_1.dll
+/Users/nurbolatzursinbek/Projects/Project_1/Project_1/obj/Debug/net7.0/Project_1.pdb
+/Users/nurbolatzursinbek/Projects/Project_1/Project_1/obj/Debug/net7.0/Project_1.genruntimeconfig.cache
+/Users/nurbolatzursinbek/Projects/Project_1/Project_1/obj/Debug/net7.0/ref/Project_1.dll
